@@ -1,3 +1,3 @@
 # sstaylor
 
-Hello, this is SST database bot, f clitzy
+Hello, this is SST database bot, f ******
