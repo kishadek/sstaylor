@@ -1,11 +1,4 @@
-{
-"TSV_MS_R": [
-  {
-    "name":"<:R_EMOTE:1036291037620097034> **Taylor Swift Vocal** Mastermind",
-    "idol":"Taylor Swift Vocal",
-    "inv":"<:R_EMOTE:1036291037620097034> Mastermind",
-    "image": "https://superstarts.sirv.com/KeshaData/images/card/card_bot/mastermind/5_card_mastermind.png",
-    "theme": "Mastermind", 
-    "minimum": "1800",
-    "maximum": "2400"
-  }
+[{
+    "title": "Hello, Embed!",
+    "description": "This is an embedded message."
+  }]
